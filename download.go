@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/inkrtech/tencent-im-http/internal"
+	"github.com/scpzc/tencent-im-http/internal"
 )
 
 var contentTypeToFileSuffix = map[string]string{

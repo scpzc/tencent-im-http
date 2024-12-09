@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/inkrtech/tencent-im-http/internal"
+	"github.com/scpzc/tencent-im-http/internal"
 )
 
 const (

@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/inkrtech/tencent-im-http/internal"
+	"github.com/scpzc/tencent-im-http/internal"
 )
 
 type Response struct {
